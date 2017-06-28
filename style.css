@@ -1,0 +1,31 @@
+
+
+#logo {
+  text-transform: uppercase;
+  color: darkred;
+  text-align: right;
+  border-bottom: dotted #DAD36F;
+}
+div.h1 {
+  color: #D83D18;
+}
+
+nav a {
+  border: 3px dotted #DAD36F;
+  color: darkred;
+  margin: auto;
+  max-width: 1px;
+  text-align: center;
+
+}
+nav{
+  max-width: 20em;
+}
+ul {
+  border: 20px solid #427859;
+  padding: 10px 15px 5px 20px;
+  background-color: #427859;
+  color: white;
+  display: inline-block;
+  font-size: 100%
+}
