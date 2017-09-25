@@ -1,6 +1,8 @@
 # README
 
-This document contains some basic instructions for how to interact with this project.
+This document contains the instructions given to us on how to complete this project.
+
+This is a basic HTML and CSS project- and it was a lot of fun.
 
 ## Solution Files
 Solutions to the coding challenges are included with this activity.
